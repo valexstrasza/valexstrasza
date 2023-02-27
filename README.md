@@ -4,10 +4,12 @@
 </div>
 <h3 align="center">A nerdy girl trying to get code</h3>
 
-- 🌱 I’m currently learning **front-end development and UX design**
+- I am a student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Italy.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/valentinarispoli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="valentinarispoli" height="30" width="40" /></a>
-</p>
+- :telescope: Passionate about digital marketing and content creation.
 
+- :seedling: Love videogames.
+
+- :zap: In my free time, I collaborate with non-profit associations.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-valentinarispoli-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/valentinarispoli/))
