@@ -6,7 +6,7 @@
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a student from Italy.
 
-- :telescope: Passionate about digital marketing and content creation.
+- :telescope: Passionate about IT, digital marketing and content creation.
 
 - :seedling: Love videogames.
 
