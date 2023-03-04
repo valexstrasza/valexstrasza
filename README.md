@@ -4,7 +4,7 @@
 </div>
 <h3 align="center">A nerdy girl trying to get code</h3>
 
-- I am a student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Italy.
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a student from Italy.
 
 - :telescope: Passionate about digital marketing and content creation.
 
