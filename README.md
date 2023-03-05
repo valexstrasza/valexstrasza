@@ -10,6 +10,4 @@
 
 - :seedling: Love videogames.
 
-- :zap: In my free time, I collaborate with non-profit associations.
-
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-valentinarispoli-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/valentinarispoli/))
